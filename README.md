@@ -1,4 +1,10 @@
-## Vid2 setup
+# Book Chat RAG
+
+Beginner document question-answering app. Upload a PDF or text file, store
+its embeddings in ChromaDB, and ask questions about the document with a
+Google Gemini model.
+
+## Setup
 
 Run these commands from **Git Bash**. The `--python` option makes every
 install target Vid2's virtual environment, even when the shell has not
